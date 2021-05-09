@@ -1,0 +1,21 @@
+body{
+    background-color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size:22px;
+}
+.napomena{
+    border:2px solid red;
+    background-color: blanchedalmond;
+    margin:25px;
+}
+.vazno{
+    font-weight:22px;
+    font-size:19px;
+    color:yellow;
+}
+#autor{
+    color: violet;
+    font-size:18px;
+    font-weight:15px;
+}
